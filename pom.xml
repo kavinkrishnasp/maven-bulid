@@ -39,7 +39,7 @@
 			<version>20160212</version>
 		</dependency>
 		
-		<!-- test dependencies Thank you -->
+		<!-- test dependencies Thank you have a nice day -->
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
